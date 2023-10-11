@@ -1,16 +1,14 @@
 h3{
     color: rgb(78, 78, 155);
 }
-.s{
 
-    background-color: hsla(219, 62%, 43%, 0.296);
-    /* height: 500px; */
-    width: 100%;
-}
 h1{
     color: rgb(0, 0, 0);
     font-style:oblique;
+
 }
 img{
     background-size: cover;
+
+   
 }
